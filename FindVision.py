@@ -9,13 +9,6 @@ import speech_recognition as sr
 
 
 
-solucao_reconhecimento_rosto = mp.solutions.face_detection
-
-reconhecedor_de_rostos = solucao_reconhecimento_rosto.FaceDetection()
-
-desenho = mp.solutions.drawing_utils
-
-
 print("Iniciando FindVision")
 
 
